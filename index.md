@@ -1,5 +1,5 @@
 ---
-title: "eltiT yM."
+title: "My Title."
 layout: splash
 header:
   overlay_color: "#fff"
@@ -18,5 +18,7 @@ intro:
 ## Title
 
 Body
+
+Hello
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
